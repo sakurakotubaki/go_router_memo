@@ -1,0 +1,2 @@
+# go_router_memo
+go_routerのネストの仕組みについて記録しておく
